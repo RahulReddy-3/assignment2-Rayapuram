@@ -7,7 +7,7 @@ The Lowry is a theatre and gallery complex, located at Greater Manchester, Engla
 
 ******
 
-##Directions from Airport to the Lowrey Museum
+## Directions from Airport to the Lowrey Museum
 
 The Nearest Airport from the Lowrey Museum is Manchester Airport. The following list gives the step by step directions to reach Lowrey Museum from Manchester Airport.
 
@@ -21,6 +21,17 @@ The Nearest Airport from the Lowrey Museum is Manchester Airport. The following 
 8. Keep right at the fork and merge onto M60.
 9. At the roundabout, take the 1st exit and stay on The Quays.
 10. You will be at the destination.
+
+
+## Places to visit near Lowrey Museum.
+
+The following places are worth visiting around the Museum:
+
+* Alchemist Media City.
+* IWM North Museum.
+* Coronation Street The Tour.
+
+
 
 
 
