@@ -44,17 +44,15 @@ Click this Link for Details - [About Me](https://github.com/RahulReddy-3/assignm
 The  describes about the popular Cite-seeing locations to visit and spend time. The time we would need to visit places is in Days.
 
 
-|City  | Location | Time  |
+|City|Location|Time|
+|---|---|---|
+|Bangalore|Nandi Hills|1 day|
+|Coorg|Thala Kaveri|1 day|
+|Hyderabad|Golconda|1 day|
+|Mysore|Mysore Palace|1 day|
 
-| -----    | -----     | ----- |
 
-|  Bangalore | Nandi Hills | 1 day|
 
-| Coorg      | Thala Kaveri   | 1 day|
-
-| Hyderabad |  Golconda | 1 day|
-
-| Mysore   | Mysore Palace | 1 day|
 
 
 
