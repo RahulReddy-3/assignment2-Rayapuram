@@ -51,6 +51,18 @@ The  describes about the popular Cite-seeing locations to visit and spend time. 
 |Hyderabad|Golconda|1 day|
 |Mysore|Mysore Palace|1 day|
 
+ *****
+
+ ### Pithy Quotes
+
+ >"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." - *Albert Einstein*
+
+ >“To find yourself, think for yourself.” - *Socrates*
+
+ 
+
+
+
 
 
 
