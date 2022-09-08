@@ -59,6 +59,26 @@ The  describes about the popular Cite-seeing locations to visit and spend time. 
 
  >“To find yourself, think for yourself.” - *Socrates*
 
+ ***
+
+ ### Code Fencing
+
+> I'd like to create a HTML form integrating Google Maps so that users have to insert where they start their journey while the end of the trip is fixed (by me). They then hit the "Send" button and see on the same page (in a frame) the directions. How would you proceed?
+  
+  Click on this link for Reference: <https://stackoverflow.com/questions/18866696/form-to-get-directions-via-google-maps>
+
+```
+<form action="http://maps.google.com/maps" method="get" target="_blank">
+   <label for="saddr">Enter your location</label>
+   <input type="text" name="saddr" />
+   <input type="hidden" name="daddr" value="350 5th Ave New York, NY 10018 (Empire State Building)" />
+   <input type="submit" value="Get directions" />
+</form>
+
+```
+
+Adding the link of Source Code Snippet here - <https://css-tricks.com/snippets/html/get-directions-form-google-maps/>
+
  
 
 
